@@ -1,0 +1,1 @@
+RandomForest_{'n_estimators': 200, 'max_depth': 20, 'n_jobs': 6}

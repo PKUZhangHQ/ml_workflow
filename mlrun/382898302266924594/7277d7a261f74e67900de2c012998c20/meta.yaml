@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhanghq/Learning/ml_workflow/mlrun/382898302266924594/7277d7a261f74e67900de2c012998c20/artifacts
+end_time: 1721280786059
+entry_point_name: ''
+experiment_id: '382898302266924594'
+lifecycle_stage: active
+run_id: 7277d7a261f74e67900de2c012998c20
+run_name: 'RandomForest_{''n_estimators'': 100, ''max_depth'': 10, ''n_jobs'': 6}'
+run_uuid: 7277d7a261f74e67900de2c012998c20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721280784670
+status: 3
+tags: []
+user_id: zhanghq
